@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jangwon</h1>
-<h2 align="center">From humanities to data — making the pivot.</h2>
+<h2 align="center">Pivoting from social science to data science — bridging the gap.</h2>
 
 <p>
 
