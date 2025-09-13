@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jangwon</h1>
-<h2 align="center">Pivoting from social science to data science — bridging the gap.</h2>
+<h1 align="center">Jangwon Kim</h1>
+<h2 align="center">From Social Science to Data Science — Building AI Solutions with Real-World Impact</h2>
 
 <p>
+
+  * 🥇 Winner of a <strong>Document Image Classification Competition</strong> (Rank 1, Macro F1 0.9692) — built a ViT-SigLIP based pipeline with class-specific augmentation, imbalance handling, and two-stage inference.<br>
 
   * 📚 Background in <strong>Finance, Statistics, and Economics</strong><br>
 
@@ -21,7 +23,6 @@
 </p>
 
 <h2 align="left">Languages & Tools</h2>
-
 
 🐍 Programming 
 <p>
@@ -46,10 +47,13 @@
   </a>
 </p>
 
-📊 Data Analysis & Visualizatiom
+📊 Data Analysis & Visualization
 <p>
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank">
     <img src="https://img.shields.io/badge/Seaborn-0d1a26?style=flat&logo=python&logoColor=white" alt="Seaborn"/>
@@ -59,6 +63,15 @@
   </a>
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  </a>
+  <a href="https://huggingface.co/timm" target="_blank">
+    <img src="https://img.shields.io/badge/timm-FF6F00?style=flat&logo=pytorch&logoColor=white" alt="timm"/>
+  </a>
+  <a href="https://albumentations.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/Albumentations-FF6F00?style=flat" alt="Albumentations"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau"/>
@@ -81,10 +94,22 @@
   </a>
 </p>
 
-🛠️ Developer Tools
+🛠️ Developer & MLOps Tools
 <p>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  </a>
+  <a href="https://airflow.apache.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" alt="Airflow"/>
+  </a>
+  <a href="https://mlflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat" alt="MLflow"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS"/>
@@ -100,3 +125,4 @@
     <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint"/>
   </a>
 </p>
+
