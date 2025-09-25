@@ -1,5 +1,5 @@
 <h1 align="center">Jangwon Kim</h1>
-<h2 align="center">From Social Science to Data Science — Building AI solutions with Real-World Impact</h2>
+<h2 align="center">From Social Science to Data Science — Bridging the gap</h2>
 
 <ul>
   <li>🥇 Rank 1 (Macro F1 0.9692): <strong>Document Image Classification Competition</strong> — Developed a ViT-SigLIP pipeline incorporating class-specific augmentation strategies, imbalance mitigation techniques, and a two-stage inference framework</li>
