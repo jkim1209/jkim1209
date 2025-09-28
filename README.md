@@ -10,16 +10,20 @@
   <li>📄 CV/Resume currently being updated — available upon request via email</li>
 </ul>
 
-<h2 align="left">Connect with me</h2>
+<hr style="border:0;border-top:0.5px solid rgba(255,255,255,.1);margin:16px 0;">
+
+<h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="mailto:jwk143@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-jwk143@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email badge"/>
   </a>
 </p>
 
-<h2 align="left">Languages & Tools</h2>
+<hr style="border:0;border-top:0.5px solid rgba(255,255,255,.1);margin:16px 0;">
 
-🐍 Programming 
+<h3 align="left">Languages & Tools</h3>
+
+<h4>🐍 Programming</h4>
 <p>
   <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
@@ -32,7 +36,7 @@
   </a>
 </p>
 
-🗃️ Databases
+<h4>🗃️ Databases</h4>
 <p>
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -42,7 +46,7 @@
   </a>
 </p>
 
-📊 Data Analysis & Visualization
+<h4>📊 Data Analysis & Visualization</h4>
 <p>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -79,7 +83,7 @@
   </a>
 </p>
 
-🧮 Statistical & Econometric Tools
+<h4>🧮 Statistical & Econometric Tools</h4>
 <p>
   <a href="https://www.eviews.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/EViews-003B6F?style=flat" alt="EViews"/>
@@ -92,7 +96,7 @@
   </a>
 </p>
 
-🛠️ Developer & MLOps Tools
+<h4>🛠️ Developer & MLOps Tools</h4>
 <p>
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
@@ -115,9 +119,12 @@
   <a href="https://wandb.ai/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black" alt="Weights & Biases"/>
   </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+  </a>
 </p>
 
-🧑‍💼 Productivity
+<h4>🧑‍💼 Productivity</h4>
 <p>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel"/>
@@ -126,3 +133,7 @@
     <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint"/>
   </a>
 </p>
+
+<hr style="border:0;border-top:0.5px solid rgba(255,255,255,.1);margin:16px 0;">
+
+![](https://komarev.com/ghpvc/?username=jkim1209&style=plastic&color=blue&label=PROFILE+VIEWS&abbreviated=true)
