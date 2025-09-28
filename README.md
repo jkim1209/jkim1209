@@ -10,16 +10,7 @@
   <li>📄 CV/Resume currently being updated — available upon request via email</li>
 </ul>
 
-<hr style="border:0;border-top:0.5px solid rgba(255,255,255,.1);margin:16px 0;">
-
-<h3 align="left">Connect with me</h3>
-<p align="left">
-  <a href="mailto:jwk143@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-jwk143@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email badge"/>
-  </a>
-</p>
-
-<hr style="border:0;border-top:0.5px solid rgba(255,255,255,.1);margin:16px 0;">
+<hr style="border:0;border-top:0.01px solid rgba(255,255,255,.05);margin:16px 0;">
 
 <h3 align="left">Languages & Tools</h3>
 
@@ -134,6 +125,15 @@
   </a>
 </p>
 
-<hr style="border:0;border-top:0.5px solid rgba(255,255,255,.1);margin:16px 0;">
+<hr style="border:0;border-top:0.01px solid rgba(255,255,255,.05);margin:16px 0;">
+
+<h3 align="left">Connect with me</h3>
+<p align="left">
+  <a href="mailto:jwk143@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-jwk143@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email badge"/>
+  </a>
+</p>
+
+<hr style="border:0;border-top:0.01px solid rgba(255,255,255,.05);margin:16px 0;">
 
 ![](https://komarev.com/ghpvc/?username=jkim1209&style=plastic&color=blue&label=PROFILE+VIEWS&abbreviated=true)
