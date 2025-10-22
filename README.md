@@ -84,6 +84,9 @@
   <a href="https://www.ibm.com/products/spss-statistics" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/SPSS-00274C?style=flat" alt="SPSS"/>
   </a>
+  <a href="https://www.sas.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/SAS-0073BA?style=flat" alt="SAS"/>
+  </a>
 </p>
 
 <h4>🛠️ Developer & MLOps Tools</h4>
