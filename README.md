@@ -6,7 +6,6 @@
   <li>📊 Passionate about <strong>data analysis, teaching, and turning numbers into insights</strong></li>
   <li>🧠 Interested in <strong>AI, financial modeling, and economic research</strong></li>
   <li>🌱 Currently learning <strong>deep learning, large language models (LLMs), and data pipelines</strong> through hands-on AI projects to solve real-world problems</li>
-  <li>📄 CV/Resume currently being updated — available upon request via email</li>
 </ul>
 
 <hr style="border:0;border-top:0.01px solid rgba(255,255,255,.05);margin:16px 0;">
