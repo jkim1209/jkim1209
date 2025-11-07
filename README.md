@@ -10,7 +10,7 @@
 
 <hr style="border:0;border-top:0.01px solid rgba(255,255,255,.05);margin:16px 0;">
 
-<h3 align="left">Languages & Tools</h3>
+<h3 align="left">Tools & Skills</h3>
 
 <h4>🐍 Programming</h4>
 <p>
@@ -25,6 +25,37 @@
   </a>
 </p>
 
+<h4>🧠 NLP & LLM Frameworks</h4>
+<p>
+  <a href="https://spacy.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=flat&logo=spacy&logoColor=white" alt="SpaCy"/>
+  </a>
+  <a href="https://www.nltk.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/NLTK-154A8A?style=flat" alt="NLTK"/>
+  </a>
+  <a href="https://konlpy.org/en/latest/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/KoNLPy-4B8BBE?style=flat" alt="KoNLPy"/>
+  </a>
+  <a href="https://openai.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI"/>
+  </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat" alt="LangChain"/>
+  </a>
+  <a href="https://github.com/langchain-ai/langgraph" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LangGraph-FFB703?style=flat" alt="LangGraph"/>
+  </a>
+  <a href="https://www.streamlit.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  </a>
+  <a href="https://gradio.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gradio-00B4B6?style=flat" alt="Gradio"/>
+  </a>
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/RAG-0052CC?style=flat" alt="RAG"/>
+  </a>
+</p>
+
 <h4>🗃️ Databases</h4>
 <p>
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
@@ -32,6 +63,9 @@
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
   </a>
 </p>
 
@@ -93,6 +127,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
   </a>
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
   </a>
@@ -116,13 +153,22 @@
   </a>
 </p>
 
-<h4>🧑‍💼 Productivity</h4>
+<h4>🧑‍💼 Productivity / Communication</h4>
 <p>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint"/>
+  </a>
+  <a href="https://www.microsoft.com/microsoft-365/word" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoft-word&logoColor=white" alt="Microsoft Word"/>
+  </a>
+  <a href="https://www.notion.so/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion"/>
+  </a>
+  <a href="https://slack.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack"/>
   </a>
 </p>
 
@@ -131,7 +177,16 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="mailto:jwk143@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-jwk143@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email badge"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://jkim1209.github.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-GitHub%20Blog%20(KR)-181717?style=flat&logo=githubpages&logoColor=white" alt="GitHub Blog(KR)"/>
+  </a>
+  <a href="https://www.notion.so/29049551b1a681abb16be0d42f2035e4?source=copy_link" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-My%20Notion%20(KR)-000000?style=flat&logo=notion&logoColor=white" alt="My Notion (KR)"/>
+  </a>
+  <a href="https://www.notion.so/Jangwon-Kim-29149551b1a680ab8ec7e2be37eca1fa?source=copy_link" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-My%20Notion%20(EN)-1E2A38?style=flat&logo=notion&logoColor=white" alt="My Notion (EN)"/>
   </a>
 </p>
 
