@@ -180,7 +180,7 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://jkim1209.github.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-My%20Website%20(KR)-181717?style=flat&logo=githubpages&logoColor=white" alt="GitHub Blog(KR)"/>
+    <img src="https://img.shields.io/badge/-My%20Website%20(EN/KR)-181717?style=flat&logo=githubpages&logoColor=white" alt="GitHub Blog(KR)"/>
   </a>
   <a href="https://www.notion.so/29049551b1a681abb16be0d42f2035e4?source=copy_link" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-My%20Notion%20(KR)-000000?style=flat&logo=notion&logoColor=white" alt="My Notion (KR)"/>
