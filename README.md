@@ -151,6 +151,11 @@
   <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
   </a>
+  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="PySpark"/>
+  </a>
+</a>
+
 </p>
 
 <h4>🧑‍💼 Productivity / Communication</h4>
