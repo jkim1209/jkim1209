@@ -5,7 +5,7 @@
   <li>📚 Background in <strong>Finance, Statistics, and Economics</strong></li>
   <li>📊 Passionate about <strong>data analysis, teaching, and turning numbers into insights</strong></li>
   <li>🧠 Interested in <strong>AI, financial modeling, and economic research</strong></li>
-  <li>🌱 Currently learning <strong>deep learning, large language models (LLMs), and data pipelines</strong> through hands-on AI projects to solve real-world problems</li>
+  <li>🏢 Currently working at KDI (Korea Development Institute) as a Research Associate in the Maroeconomic and Financial Policies Dept.</li>
 </ul>
 
 <hr style="border:0;border-top:0.01px solid rgba(255,255,255,.05);margin:16px 0;">
