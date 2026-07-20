@@ -1,5 +1,5 @@
 <h1 align="center">Jangwon Kim</h1>
-<h2 align="center">From Social Science to Data Science — Bridging the gap</h2>
+<h2 align="center">Bridging Financial Insights and Data Science</h2>
 
 <ul>
   <li>📚 Background in <strong>Finance, Statistics, and Economics</strong></li>
