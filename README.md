@@ -12,49 +12,103 @@
 
 #### 🐍 Programming
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org) [![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/) [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white)](https://www.mathworks.com/)
+<p>
+<a href="https://www.python.org"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/></a>
+<a href="https://www.r-project.org/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"/></a>
+<a href="https://www.mathworks.com/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white" alt="MATLAB"/></a>
+</p>
+<br clear="all"/>
 
 #### 🧠 NLP & LLM Frameworks
 
-[![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=flat&logo=spacy&logoColor=white)](https://spacy.io/) [![NLTK](https://img.shields.io/badge/NLTK-154A8A?style=flat)](https://www.nltk.org/) [![KoNLPy](https://img.shields.io/badge/KoNLPy-4B8BBE?style=flat)](https://konlpy.org/en/latest/) [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)](https://openai.com/) [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)](https://www.langchain.com/) [![LangGraph](https://img.shields.io/badge/LangGraph-FFB703?style=flat)](https://github.com/langchain-ai/langgraph) [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://www.streamlit.io/) [![Gradio](https://img.shields.io/badge/Gradio-00B4B6?style=flat)](https://gradio.app/) ![RAG](https://img.shields.io/badge/RAG-0052CC?style=flat)
+<p>
+<a href="https://spacy.io/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/SpaCy-09A3D5?style=flat&logo=spacy&logoColor=white" alt="SpaCy"/></a>
+<a href="https://www.nltk.org/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/NLTK-154A8A?style=flat" alt="NLTK"/></a>
+<a href="https://konlpy.org/en/latest/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/KoNLPy-4B8BBE?style=flat" alt="KoNLPy"/></a>
+<a href="https://openai.com/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI"/></a>
+<a href="https://www.langchain.com/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat" alt="LangChain"/></a>
+<a href="https://github.com/langchain-ai/langgraph"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/LangGraph-FFB703?style=flat" alt="LangGraph"/></a>
+<a href="https://www.streamlit.io/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
+<a href="https://gradio.app/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/Gradio-00B4B6?style=flat" alt="Gradio"/></a>
+<img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/RAG-0052CC?style=flat" alt="RAG"/>
+</p>
+<br clear="all"/>
 
 #### 🗃️ Databases
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+<p>
+<a href="https://www.mysql.com/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/></a>
+<a href="https://www.postgresql.org/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+<a href="https://www.sqlite.org/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/></a>
+</p>
+<br clear="all"/>
 
 #### 📊 Data Analysis & Visualization
 
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/) [![Seaborn](https://img.shields.io/badge/Seaborn-0d1a26?style=flat&logo=python&logoColor=white)](https://seaborn.pydata.org/) [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/) [![TorchVision](https://img.shields.io/badge/TorchVision-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/vision/stable/index.html) [![timm](https://img.shields.io/badge/timm-FF6F00?style=flat&logo=pytorch&logoColor=white)](https://huggingface.co/timm) [![Albumentations](https://img.shields.io/badge/Albumentations-FF6F00?style=flat)](https://albumentations.ai/) [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/) [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+<p>
+<a href="https://pandas.pydata.org/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/></a>
+<a href="https://numpy.org/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/></a>
+<a href="https://seaborn.pydata.org/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/Seaborn-0d1a26?style=flat&logo=python&logoColor=white" alt="Seaborn"/></a>
+<a href="https://scikit-learn.org/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn"/></a>
+<a href="https://pytorch.org/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
+<a href="https://pytorch.org/vision/stable/index.html"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/TorchVision-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="TorchVision"/></a>
+<a href="https://huggingface.co/timm"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/timm-FF6F00?style=flat&logo=pytorch&logoColor=white" alt="timm"/></a>
+<a href="https://albumentations.ai/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/Albumentations-FF6F00?style=flat" alt="Albumentations"/></a>
+<a href="https://opencv.org/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/></a>
+<a href="https://www.tableau.com/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau"/></a>
+<a href="https://powerbi.microsoft.com/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/></a>
+</p>
+<br clear="all"/>
 
 #### 🧮 Statistical & Econometric Tools
 
-[![EViews](https://img.shields.io/badge/EViews-003B6F?style=flat)](https://www.eviews.com/) [![Stata](https://img.shields.io/badge/Stata-1E5AA8?style=flat)](https://www.stata.com/) [![SPSS](https://img.shields.io/badge/SPSS-00274C?style=flat)](https://www.ibm.com/products/spss-statistics) [![SAS](https://img.shields.io/badge/SAS-0073BA?style=flat)](https://www.sas.com/)
+<p>
+<a href="https://www.eviews.com/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/EViews-003B6F?style=flat" alt="EViews"/></a>
+<a href="https://www.stata.com/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/Stata-1E5AA8?style=flat" alt="Stata"/></a>
+<a href="https://www.ibm.com/products/spss-statistics"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/SPSS-00274C?style=flat" alt="SPSS"/></a>
+<a href="https://www.sas.com/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/SAS-0073BA?style=flat" alt="SAS"/></a>
+</p>
+<br clear="all"/>
 
 #### 🛠️ Developer & MLOps Tools
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/) [![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/) [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat)](https://mlflow.org/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/) [![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)](https://wandb.ai/) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/) [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/)
+<p>
+<a href="https://git-scm.com/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/></a>
+<a href="https://github.com/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.docker.com/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/></a>
+<a href="https://airflow.apache.org/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" alt="Airflow"/></a>
+<a href="https://mlflow.org/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/MLflow-0194E2?style=flat" alt="MLflow"/></a>
+<a href="https://fastapi.tiangolo.com/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
+<a href="https://aws.amazon.com/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS"/></a>
+<a href="https://wandb.ai/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black" alt="Weights & Biases"/></a>
+<a href="https://www.linux.org/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/></a>
+<a href="https://spark.apache.org/docs/latest/api/python/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="PySpark"/></a>
+</p>
+<br clear="all"/>
 
 #### 🧑‍💼 Productivity / Communication
 
-[![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) [![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint) [![Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/microsoft-365/word) [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/) [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)](https://slack.com/)
+<p>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel"/></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint"/></a>
+<a href="https://www.microsoft.com/microsoft-365/word"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoft-word&logoColor=white" alt="Microsoft Word"/></a>
+<a href="https://www.notion.so/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion"/></a>
+<a href="https://slack.com/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack"/></a>
+</p>
+<br clear="all"/>
 
 ---
 
 ### Connect with me
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jwk143@gmail.com) [![My Website](https://img.shields.io/badge/-My%20Website%20(EN/KR)-20232A?style=flat&logo=react&logoColor=61DAFB)](https://jkim1209.github.io/) [![My Notion KR](https://img.shields.io/badge/-My%20Notion%20(KR)-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/29049551b1a681abb16be0d42f2035e4?source=copy_link) [![My Notion EN](https://img.shields.io/badge/-My%20Notion%20(EN)-1E2A38?style=flat&logo=notion&logoColor=white)](https://www.notion.so/Jangwon-Kim-29149551b1a680ab8ec7e2be37eca1fa?source=copy_link)
+<p>
+<a href="mailto:jwk143@gmail.com"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://jkim1209.github.io/"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/-My%20Website%20(EN/KR)-20232A?style=flat&logo=react&logoColor=61DAFB" alt="My Website"/></a>
+<a href="https://www.notion.so/29049551b1a681abb16be0d42f2035e4?source=copy_link"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/-My%20Notion%20(KR)-000000?style=flat&logo=notion&logoColor=white" alt="My Notion (KR)"/></a>
+<a href="https://www.notion.so/Jangwon-Kim-29149551b1a680ab8ec7e2be37eca1fa?source=copy_link"><img align="left" hspace="4" vspace="3" src="https://img.shields.io/badge/-My%20Notion%20(EN)-1E2A38?style=flat&logo=notion&logoColor=white" alt="My Notion (EN)"/></a>
+</p>
+<br clear="all"/>
 
 ---
 
 ![](https://komarev.com/ghpvc/?username=jkim1209&style=plastic&color=blue&label=PROFILE+VIEWS&abbreviated=true)
-
----
-
-### TEST C
-
-<p>
-<a href="https://www.python.org"><img align="left" hspace="4" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/></a>
-<a href="https://www.r-project.org/"><img align="left" hspace="4" src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"/></a>
-<a href="https://www.mathworks.com/"><img align="left" hspace="4" src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white" alt="MATLAB"/></a>
-</p>
-<br clear="all"/>
