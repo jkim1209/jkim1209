@@ -47,17 +47,3 @@
 ---
 
 ![](https://komarev.com/ghpvc/?username=jkim1209&style=plastic&color=blue&label=PROFILE+VIEWS&abbreviated=true)
-
----
-
-### TEST A
-
-**Languages:** [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org) [![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/) [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white)](https://www.mathworks.com/)
-
-### TEST B
-
-<table><tr>
-<td><a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/></a></td>
-<td><a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"/></a></td>
-<td><a href="https://www.mathworks.com/"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white" alt="MATLAB"/></a></td>
-</tr></table>
